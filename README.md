@@ -1,4 +1,4 @@
-Unity Version: 2021.3.8f1 LTS
+Unity Version: 2021.3.8f1 LTS  
 React Unity Version: 0.15.1
 
 ### About this project
@@ -15,4 +15,4 @@ This is an example of elements not being rendered. The app is supposed to render
 
 ### Previous test
 
-`pyramid.webm` is another example of a previous test I was running that shows the initial squares not rendering. I figured the grid shows it better.
+`/pyramid.webm` is another example of a previous test I was running that shows the initial squares not rendering. I figured the grid shows it better.
